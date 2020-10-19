@@ -1,0 +1,2 @@
+Metodo, Valor de M, Valor de N, Colisões,
+Endereçamento Aberto - Sondagem Dupla, 105, 100, 41,
